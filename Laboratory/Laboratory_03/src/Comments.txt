@@ -1,0 +1,16 @@
+
+
+Phase 1
+- renaming everything based on their scope
+- using mixed Camel Case naming convention
+- removing magic numbers
+- adding an enum for product types
+
+Phase 2
+- encapsulate values in the ProductType enum
+- refactor the if-then-if-then....with a switch
+- exit as fast as you can from the function - return finalPrice fast
+- move some variables as constant static ones
+
+Phase 3
+- reduce methods complexity by Single Responsibility from SOLID
