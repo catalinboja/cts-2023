@@ -1,0 +1,5 @@
+Debug: Testing Singleton  
+Info: The end 
+Info: A different log file 
+Info: Another one 
+Info: The end again 

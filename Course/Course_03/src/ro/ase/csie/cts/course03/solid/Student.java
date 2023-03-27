@@ -28,8 +28,8 @@ public class Student {
 	//tight coupling with the OOP module and the DB one
 	void takeOOPExam(){ 
 		//details on taking the exam
-		}
 	}
+	
 	void saveToDB(){ }
 
 }
