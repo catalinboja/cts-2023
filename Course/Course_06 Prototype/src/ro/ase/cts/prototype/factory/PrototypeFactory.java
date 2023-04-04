@@ -8,7 +8,8 @@ import ro.ase.cts.prototype.SpaceShip;
 
 public class PrototypeFactory {
 	
-	private static HashMap<String,Model3D> prototypes = new HashMap<>();
+	private static HashMap<String,Model3D> prototypes = 
+			new HashMap<>();
 	
 	static {
 		//load prototypes
