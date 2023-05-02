@@ -20,7 +20,4 @@ public class Button3DDecorator extends AbstractVisualControlDecorator{
 		this.theControl.click();
 	}
 	
-	
-	
-
 }
