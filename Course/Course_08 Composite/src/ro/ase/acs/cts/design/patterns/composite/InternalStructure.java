@@ -15,7 +15,7 @@ public class InternalStructure extends HierarchyNode{
 	
 	@Override
 	public String getName() {
-		throw new UnsupportedOperationException();
+		return this.structureName;
 	}
 
 	@Override
